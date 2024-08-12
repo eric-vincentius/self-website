@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/self-website/static/css/main.9de0d6c4.css",
+    "main.js": "/self-website/static/js/main.e1c31f58.js",
+    "static/js/453.35eb3300.chunk.js": "/self-website/static/js/453.35eb3300.chunk.js",
+    "static/media/pizza.jpg": "/self-website/static/media/pizza.0e9f0b87aab6e56ea3b3.jpg",
+    "static/media/aot.jpg": "/self-website/static/media/aot.2910be351b47859f35a6.jpg",
+    "static/media/programming.jpg": "/self-website/static/media/programming.109790ee0c4f3b168dbf.jpg",
+    "static/media/cooking.jpg": "/self-website/static/media/cooking.5392892c71e69c2f8cbf.jpg",
+    "static/media/ice-cream.jpg": "/self-website/static/media/ice-cream.d26a9bd3dc62396d1e84.jpg",
+    "static/media/noodle.jpg": "/self-website/static/media/noodle.95470fc65e4294cf7816.jpg",
+    "static/media/3d_design.jpg": "/self-website/static/media/3d_design.10558555dcbcb0118c0a.jpg",
+    "static/media/selfPhoto2.png": "/self-website/static/media/selfPhoto2.a591cd4ca94216f90bc7.png",
+    "static/media/port3.png": "/self-website/static/media/port3.c68a024babed14c7e707.png",
+    "static/media/music.jpg": "/self-website/static/media/music.2d4b9fd14728629f4cd9.jpg",
+    "static/media/port2.png": "/self-website/static/media/port2.a997557f55d40ac710db.png",
+    "static/media/avatar.png": "/self-website/static/media/avatar.cd763ca4fd947a88b970.png",
+    "static/media/port 4.png": "/self-website/static/media/port 4.fa8d262c652b690f093f.png",
+    "static/media/instagram.png": "/self-website/static/media/instagram.5d40b85fff913741a5f6.png",
+    "static/media/gmail.png": "/self-website/static/media/gmail.355f6adb5750531fb83e.png",
+    "static/media/port1.png": "/self-website/static/media/port1.48aef7367174344c60bc.png",
+    "static/media/demon_slayer.jpg": "/self-website/static/media/demon_slayer.71e6f7c974e2b5385d50.jpg",
+    "static/media/spyxfamily.jpg": "/self-website/static/media/spyxfamily.8b6e9ce8a84e34491cad.jpg",
+    "static/media/linkedin.png": "/self-website/static/media/linkedin.68ac41e1459436bfd38f.png",
+    "index.html": "/self-website/index.html",
+    "main.9de0d6c4.css.map": "/self-website/static/css/main.9de0d6c4.css.map",
+    "main.e1c31f58.js.map": "/self-website/static/js/main.e1c31f58.js.map",
+    "453.35eb3300.chunk.js.map": "/self-website/static/js/453.35eb3300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de0d6c4.css",
+    "static/js/main.e1c31f58.js"
+  ]
+}
