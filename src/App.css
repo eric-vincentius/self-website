@@ -15,7 +15,7 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  width: 30%;
+  flex: 0 0 400px;
   cursor: pointer;
 }
 
@@ -25,14 +25,14 @@
 
 .mid-navbar {
   display: flex;
-  width: 30%;
+  flex: 1;
 }
 
 .right-navbar {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  width: 40%;
+  flex: 0 0 400px;
   cursor: pointer;
 }
 
@@ -146,4 +146,89 @@
 .right-footer img {
   height: 30px;
   width: 30px;
+}
+
+@media only screen and (max-width: 815px) {
+  .right-navbar a {
+    display: none;
+  }
+  .right-navbar {
+    flex: 0 0 auto;
+    justify-content: flex-end;
+  }
+  .right-navbar button {
+    align-self: right;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .favourites {
+    height: 800px;
+    grid-template-columns: auto auto;
+    grid-template-rows: 400px 400px;
+  }
+
+  .footer {
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 875px) {
+  .portofolios {
+    grid-template-columns: auto auto auto;
+  }
+
+  .message form{
+    flex-direction: column;
+  }
+
+  .message form input {
+    width: 600px;
+  }
+}
+
+@media only screen and (max-width: 665px) {
+  .about-me {
+    height: 700px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .biodata {
+    justify-self: center;
+  }
+
+  .about-me img {
+    height: 400px;
+  }
+
+  .favourites {
+    height: 1200px;
+    grid-template-columns: auto;
+    grid-template-rows: 400px 400px 400px;
+  }
+
+  .portofolios {
+    grid-template-columns: auto auto;
+  }
+
+  .message form{
+    flex-direction: column;
+  }
+
+  .message form input {
+    width: 400px;
+  }
+
+  .footer {
+    justify-content: center;
+  }
+
+  .left-footer {
+    width: 0%;
+  }
+
+  .right-footer {
+    width: 100%;
+  }
 }

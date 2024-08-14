@@ -13,7 +13,7 @@ import Header from './Header.js'
 
 function Favourites({darkMode, changeMode}) {
     return (
-        <div id="favourites" className="favourites">
+        <div id="favourites" className="favourites" style={{ backgroundColor: darkMode ? "rgba(26, 26, 26, 0.685)" : "white"}}>
         <div className="hobbies" style={{ backgroundColor: darkMode ? "rgba(26, 26, 26, 0.685)" : "rgb(255, 86, 86)"}}>
           <h2 style={{ color: darkMode ? "white" : "black"}}>HOBBIES</h2>
           <div className="hobbies-fill">
