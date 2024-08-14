@@ -232,3 +232,34 @@
     width: 100%;
   }
 }
+
+@media only screen and (max-width: 500px) {
+  .left-navbar img {
+    height: 45%;
+  }
+
+  .left-navbar h1 {
+    font-size: 25px;
+  }
+
+  .left-navbar {
+    flex: 0 0 300px;
+  }
+
+  .right-navbar button {
+    margin-right: 5px;
+  }
+
+  .right-navbar {
+    flex: 0 0 100px;
+  }
+
+  .portofolios img {
+    width: 180px;
+    height: 130px;
+  }
+
+  .message form input {
+    width: 300px;
+  }
+}
