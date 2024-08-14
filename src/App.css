@@ -239,15 +239,23 @@
   }
 
   .left-navbar h1 {
-    font-size: 25px;
+    font-size: 15px;
   }
 
   .left-navbar {
-    flex: 0 0 300px;
+    flex: 0 0 200px;
   }
 
   .right-navbar button {
     margin-right: 5px;
+  }
+
+  .biodata {
+    width: auto;
+  }
+
+  .portofolios {
+    grid-template-columns: auto;
   }
 
   .right-navbar {
